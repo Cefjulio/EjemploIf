@@ -16,7 +16,13 @@ public class EjemploIf {
      */
     public static void main(String[] args) {
         // TODO code application logic 
+        //Ejemplo If
+        int x = 10;
         
+        if(x < 20){
+        
+            System.out.print("X menor que 20\n");
+        }
         
         
         
